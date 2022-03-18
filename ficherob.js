@@ -1,5 +1,5 @@
 console.log("-------------");
-console.log("soy el segundo fichero");
+console.log("soy el fichero otro");
 console.log("-------------");
  console.log(`
   Ala Celta a demostrar, por historia e tradición,
